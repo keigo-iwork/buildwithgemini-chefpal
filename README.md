@@ -2,6 +2,8 @@
 
 ![ChefPal Demo](demo.gif)
 
+> 🎬 **Watch Demo Video with Lo-Fi Music**: [chefpal_demo_lofi.mp4](chefpal_demo_lofi.mp4) | [Original silent demo](chefpal_demo.mp4)
+
 **ChefPal** is an autonomous AI culinary assistant built on Google's Agent Development Kit (ADK) and Agent Engine. It helps home cooks manage pantry stock, recall dietary restrictions and food allergies across sessions, scale recipes with code execution, discover real-world dishes, and generate photorealistic plating presentations and culinary preview videos.
 
 ---
